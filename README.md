@@ -12,4 +12,4 @@ Notes:
 
 Walkthrough of all user stories:
 
-<img src="http://imgur.com/5FIjtgw" alt="" width="300">
+<img src="http://i.imgur.com/5FIjtgw.gif">
